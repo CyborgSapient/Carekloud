@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b0d6419.css",
+    "main.js": "/static/js/main.b0cdaabf.js",
+    "static/js/787.181e9392.chunk.js": "/static/js/787.181e9392.chunk.js",
+    "static/media/companylogoremovebg.png": "/static/media/companylogoremovebg.9816001540793434e1fd.png",
+    "static/media/bill.jpg": "/static/media/bill.7bb5db9ba01b772f4235.jpg",
+    "static/media/doctor.jpg": "/static/media/doctor.780718e9efe6c3912eb8.jpg",
+    "static/media/recpeiton.jpg": "/static/media/recpeiton.9d30da8d7cd3d7db5622.jpg",
+    "static/media/admin.jpg": "/static/media/admin.17a1da988c6cfefe3471.jpg",
+    "static/media/allpatient.webp": "/static/media/allpatient.f95af55e389239ed4e2b.webp",
+    "static/media/updateEmployeeDetails.png": "/static/media/updateEmployeeDetails.cd83c1a9184401c41549.png",
+    "static/media/passoword_reset.png": "/static/media/passoword_reset.3589f9278bcfde671915.png",
+    "static/media/SystemAccessManagement.jpg": "/static/media/SystemAccessManagement.63e33a68380c8a5b3efd.jpg",
+    "static/media/remove_employee.png": "/static/media/remove_employee.407e3a4490400e6e8d54.png",
+    "static/media/employee.jpg": "/static/media/employee.0053cfb49877de6edb03.jpg",
+    "static/media/add_employee.jpg": "/static/media/add_employee.91ed9d759dfc93551fca.jpg",
+    "static/media/SystemAccessDetails.png": "/static/media/SystemAccessDetails.53117500379bef23fe75.png",
+    "static/media/revenue.png": "/static/media/revenue.6996ba7141954c9d46e7.png",
+    "static/media/appointment.png": "/static/media/appointment.ea315bc385c80566e9fa.png",
+    "static/media/update_employee.jpg": "/static/media/update_employee.964359292c17b4a0ba4e.jpg",
+    "static/media/inventory_details.jpg": "/static/media/inventory_details.ca7a65d4cefeb2812faf.jpg",
+    "static/media/RemoveEmployeeRequests.png": "/static/media/RemoveEmployeeRequests.3f697297edaaa3c91dc8.png",
+    "static/media/admit.png": "/static/media/admit.c28cc6082e529dc904d2.png",
+    "static/media/patientreport.jpg": "/static/media/patientreport.5ed09bd4d747d4984e1e.jpg",
+    "static/media/employee_details.png": "/static/media/employee_details.5b1bf9a3ef9a38e40b2b.png",
+    "static/media/staff_details.jpg": "/static/media/staff_details.bffd2c00e2c733532e4c.jpg",
+    "static/media/patient_details.png": "/static/media/patient_details.3cd71b246c9cf47db3dc.png",
+    "static/media/release.webp": "/static/media/release.ed04c76a8c45770499bd.webp",
+    "index.html": "/index.html",
+    "main.5b0d6419.css.map": "/static/css/main.5b0d6419.css.map",
+    "main.b0cdaabf.js.map": "/static/js/main.b0cdaabf.js.map",
+    "787.181e9392.chunk.js.map": "/static/js/787.181e9392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b0d6419.css",
+    "static/js/main.b0cdaabf.js"
+  ]
+}
